@@ -1,0 +1,30 @@
+{
+  "name": "anagram-checker",
+  "version": "0.0.1",
+  "description": "Check if multiple strings are anagrams",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tleunen/anagram-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tleunen/anagram-checker/issues"
+  },
+  "homepage": "https://github.com/tleunen/anagram-checker",
+  "keywords": [
+    "anagram",
+    "strings"
+  ],
+  "author": {
+    "name": "Tommy Leunen",
+    "email": "tommy.leunen@gmail.com",
+    "url": "http://tommyleunen.com/"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
